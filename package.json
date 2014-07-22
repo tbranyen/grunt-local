@@ -1,0 +1,7 @@
+{
+  "name": "grunt-local",
+  "version": "0.1.0",
+  "dependencies": {
+    "mrmime": "~0.1.0"
+  }
+}
